@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 125" fill="#FBB024">
+  <g transform="translate(0, 4)">
+    <!-- Head -->
+    <circle cx="50" cy="24" r="18" />
+    <!-- Torso -->
+    <path d="M 38 42 C 34 42 34 68 34 76 C 34 80 40 82 50 82 C 60 82 66 80 66 76 C 66 68 66 42 62 42 Z" />
+    <!-- Left Arm Raised Up/Out -->
+    <path d="M 38 46 C 26 40 14 36 6 36 C 2 36 1 44 6 46 C 16 48 26 52 36 56 Z" />
+    <!-- Right Arm Raised Up/Out -->
+    <path d="M 62 46 C 74 40 86 36 94 36 C 98 36 99 44 94 46 C 84 48 74 52 64 56 Z" />
+    <!-- Left Leg Jumping / Kicking Left -->
+    <path d="M 40 78 C 34 82 24 90 12 96 C 8 100 14 106 18 102 C 28 96 38 88 44 82 Z" />
+    <!-- Right Leg Downward/Right -->
+    <path d="M 54 80 C 56 88 56 98 56 108 C 56 114 66 114 66 108 C 66 98 64 88 62 80 Z" />
+  </g>
+</svg>

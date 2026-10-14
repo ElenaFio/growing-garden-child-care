@@ -1,0 +1,6 @@
+{
+  "name": "Growing Garden ChildCare",
+  "description": "Warm bilingual family childcare in Hayward, California offering day, night, and drop-in care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
